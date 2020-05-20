@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Umang"
 date: "20/05/2020"
-output: md File
+output: pdf_document
 ---
 
-"##This is a markdown file"
+##"This is a markdown."
